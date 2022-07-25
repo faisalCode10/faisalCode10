@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @faisalCode10
+- 👀 I’m interested in web Development and Ai
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me fai._.sal10
+
+<img src="https://github-readme-stats.vercel.app/api?username=faisalCode10&&show_icons=true&titl e_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

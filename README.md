@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/17017149/faisal-imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="faisal imran" height="30" width="40" /></a>
 <a href="https://fb.com/fai sal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fai sal" height="30" width="40" /></a>
 <a href="https://instagram.com/fai._.sal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fai._.sal10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faisal imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisal imran" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faisalimran477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisal imran" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/https://leetcode.com/faisalcode10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/faisalcode10/" height="30" width="40" /></a>
 </p>
 

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalcode10" alt="faisalcode10" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **Social Meida full stack app** -->
+<!-- - 🔭 I’m currently working on **Face Recognition attendance system** -->
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalCode10](https://github.com/faisalCode10)
 

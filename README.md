@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **Face Recognition attendance system** -->
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalCode10](https://github.com/faisalCode10)
 

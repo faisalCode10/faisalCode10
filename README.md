@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalCode10](https://github.com/faisalCode10)
 
-- 💬 Ask me about **javaScript, React, python c++**
+- 💬 Ask me about **javaScript, React**
 
 - 📫 How to reach me **faisalimran477@gmail.com**
 
